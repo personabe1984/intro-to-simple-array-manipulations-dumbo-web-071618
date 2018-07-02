@@ -32,6 +32,7 @@ def using_insert(arr, element)
 end
 
 def using_uniq
+  
 end
 
 def using_flatten
